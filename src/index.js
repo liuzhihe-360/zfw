@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+//全局文件
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
